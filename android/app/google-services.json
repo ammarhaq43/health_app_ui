@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "595261039583",
+    "project_id": "health-app-efa06",
+    "storage_bucket": "health-app-efa06.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595261039583:android:cc51cbb139bf2da9651a6a",
+        "android_client_info": {
+          "package_name": "com.example.fitness_health_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe8TUh5J8InAvWQBhs9GMr098AXxWPcNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
